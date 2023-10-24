@@ -32,7 +32,6 @@ El proyecto cuenta con los siguientes ficheros:
   - Incluye un fichero ejecutable **Trabajo Unity.exe** en el cual se puede ejecutar el juego directamente.
   
 - Un documento llamado **Trabajo_Unity.pdf** en el que se describe detalladamente el proceso de construcción del juego adjuntado capturas, código y explicaciones de los distintos pasos realizados en el desarrollo del juego.
-- Un documento llamado **Video funcionamiento juego.mp4** que contiene un vídeo demostrativo sobre el funcionamiento del juego.
 
 # - Características del juego
 
