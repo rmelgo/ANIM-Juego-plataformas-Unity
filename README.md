@@ -4,7 +4,7 @@
 
 # - Introducción
 
-Proyecto realizado en la asignatura de Animación Digital del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/ANIM-Fusion-y-sombras/blob/main/Enunciado.pdf" target="_blank">*Enunciado_Unity.pdf*</a>.
+Proyecto realizado en la asignatura de Animación Digital del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/ANIM-Juego-plataformas-Unity/blob/main/Enunciado%20Unity.pdf" target="_blank">*Enunciado_Unity.pdf*</a>.
 
 El principal objetivo de este proyecto es la realización de un juego en Unity que cumpla una serie de requisitos básicos como:
 - Manejo de diferentes modelos/sprites. 
