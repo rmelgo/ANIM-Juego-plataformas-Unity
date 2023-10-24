@@ -27,11 +27,15 @@ Esto se debe a que el entorno de Unity funciona sobre Windows, además de que lo
 
 El proyecto cuenta con los siguientes ficheros:
 
-- Una carpeta llamada **Trabajo Unity** que contiene el proyecto Unity del juego de plataforma desarrollado y todo el material necesario para la construcción del juego.
+- Una carpeta llamada **Scripts** que contiene los scripts necesarios que realizan diferentes funcionalidades del juego como el moviemiento del personaje, el movimiento de los obstaculos, la gestión de la camara, etc.
   
   - Incluye un fichero ejecutable **Trabajo Unity.exe** en el cual se puede ejecutar el juego directamente.
   
 - Un documento llamado **Trabajo_Unity.pdf** en el que se describe detalladamente el proceso de construcción del juego adjuntado capturas, código y explicaciones de los distintos pasos realizados en el desarrollo del juego.
+
+Para descargar el **juego completo**, se adjunta el siguiente enlace, ya que es muy pesado para ser subido directamente en GitHub (300 MB):
+
+https://drive.google.com/drive/folders/1mhcNwZCd8uD-XWcvZ-oXvU6fsECbmv-u?usp=share_link
 
 # - Características del juego
 
