@@ -23,6 +23,8 @@ Para ejecutar este programa, se requerirá de una distribución del Sistema Oper
 
 Esto se debe a que el entorno de Unity funciona sobre Windows, además de que los ejecutables generados sólo pueden ejecutarse en Windows.
 
+Para desarrollar el juego se ha utilizado la versión *2020.1.4f1* de Unity.
+
 # Comentarios sobre el material adjuntado
 
 El proyecto cuenta con los siguientes ficheros:
