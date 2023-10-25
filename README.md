@@ -88,4 +88,4 @@ En el siguiente video, se adjunta una demostración del funcionamiento del juego
 
 [![Alt text](https://github.com/rmelgo/Anim-Juego-plataformas-Unity/assets/145989723/5e599318-b9c3-4fa1-a284-6ff5d71dc095)](https://youtu.be/B2mdTjsnM7k)
 
-**Nota**: Hacer click a la imagen para acceder al video
+https://youtu.be/B2mdTjsnM7k
