@@ -4,7 +4,7 @@
 
 # - Introducción
 
-Proyecto realizado en la asignatura de Animación Digital del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/ANIM-Juego-plataformas-Unity/blob/main/Enunciado%20Unity.pdf" target="_blank">*Enunciado_Unity.pdf*</a>.
+Proyecto realizado en la asignatura de ***Animación Digital*** del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/ANIM-Juego-plataformas-Unity/blob/main/Enunciado%20Unity.pdf" target="_blank">*Enunciado_Unity.pdf*</a>.
 
 El principal objetivo de este proyecto es la realización de un juego en Unity que cumpla una serie de requisitos básicos como:
 - Manejo de diferentes modelos/sprites. 
@@ -15,15 +15,15 @@ El principal objetivo de este proyecto es la realización de un juego en Unity q
 - Sonidos 
 - Varias Escenas. 
 
-De esta manera, se utilizán las distintos conocimientos sobre Unity junto con el apoyo de varios assets gratuitos de la tienda de Unity que permitan diseñar el escenario del juego así como el personaje a manejar por el usuario.
+De esta manera, se utilizán las distintos conocimientos sobre *Unity* junto con el apoyo de varios assets gratuitos de la tienda de *Unity* que permitan diseñar el escenario del juego así como el personaje a manejar por el usuario.
 
 # - Comentarios sobre el entorno de ejecución
 
 Para ejecutar este programa, se requerirá de una distribución del Sistema Operativo **Windows**.    
 
-Esto se debe a que el entorno de Unity funciona sobre Windows, además de que los ejecutables generados sólo pueden ejecutarse en Windows.
+Esto se debe a que el entorno de *Unity* funciona sobre Windows, además de que los ejecutables generados sólo pueden ejecutarse en Windows.
 
-Para desarrollar el juego se ha utilizado la versión *2020.1.4f1* de Unity.
+Para desarrollar el juego se ha utilizado la versión *2020.1.4f1* de *Unity*.
 
 # Comentarios sobre el material adjuntado
 
@@ -47,7 +47,7 @@ Las características básicas del juego son las siguientes:
 - Cada nivel cuentan con una serie de obstaculos, plataformas, etc que el personaje debe superar para pasar al siguiente nivel.
 - Cada nivel cuenta con una puerta de entrada en la que el personaje empieza el nivel.
 - Para pasar de nivel, el personaje debe alcanzar una puerta que marca el fin del nivel.
-- Cada vez que el personaje muera debido a algún obstaculo, reaparecera de nuevo en la puerta que marca el inicio del nivel.
+- Cada vez que el personaje muera debido a algún obstaculo, reaparecerá de nuevo en la puerta que marca el inicio del nivel.
 - El personaje se trata de un principe y la decoraración esta ambientada en un castillo medieval.
 - El personaje puede moverse hacia los lados y saltar utilizando las flechas del teclado.
 - El personaje puede realizar un segundo salto en el aire. Para ello, debe pulsarse de nuevo la flecha hacia arriba.
@@ -74,7 +74,7 @@ En el juego existen distintos tipos de obstaculos:
   <img src="https://github.com/rmelgo/Anim-Juego-plataformas-Unity/assets/145989723/e47d013f-3314-4345-9ace-d59c85a1d9f2">
 </p>
 
-- **Nivel 4**: Este nivel incorpora los obtaculos del nivel anterior junto a las plataformas gravitarias. Existen algunas plataformas las cuales se vendrán abajo cuando el personaje se apoye sobre ellas. Al cabo de unos segundos, estas plataforman se repondrán para que el usuario siga teniendo opciones de pasarse el nivel.
+- **Nivel 4**: Este nivel incorpora los obtaculos del nivel anterior junto a las plataformas gravitatorias. Existen algunas plataformas las cuales se vendrán abajo cuando el personaje se apoye sobre ellas. Al cabo de unos segundos, estas plataformas se repondrán para que el usuario siga teniendo opciones de pasarse el nivel.
 
 <p align="center">
   <img src="https://github.com/rmelgo/Anim-Juego-plataformas-Unity/assets/145989723/bdc9ce65-2894-46e1-9cec-f9dc885f5198">
@@ -89,3 +89,9 @@ En el siguiente video, se adjunta una demostración del funcionamiento del juego
 [![Alt text](https://github.com/rmelgo/Anim-Juego-plataformas-Unity/assets/145989723/5e599318-b9c3-4fa1-a284-6ff5d71dc095)](https://youtu.be/B2mdTjsnM7k)
 
 https://youtu.be/B2mdTjsnM7k
+
+# - Participantes
+
+<table>
+  <td align="center"><a href="https://github.com/rmelgo"><img src="https://avatars.githubusercontent.com/u/145989723?s=400&u=e5c06adba3f3c418207178abc845d398b3d5f77f&v=4" width="100px;" alt=""/><br /><sub><b>Raúl Melgosa</b></sub></a><br/> 
+</table>
